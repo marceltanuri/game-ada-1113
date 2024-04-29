@@ -1,0 +1,3 @@
+Há uma boa prática comum aplicada em diferentes tipos de aplicação, inclusive aplicações Web, que é o uso de DTOs na entrada e nad saída de dados.
+- Identifique se DTOs estão sendo usados na entrada de dados. Mostre ao menos uma linha e classe onde isso ocorre
+- O mesmo para saída de dados
